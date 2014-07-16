@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-123"/>
+    <underlineThickness value="20"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="Euro"/>
+      <psName name="dollaroldstyle"/>
+      <psName name="zerooldstyle"/>
+      <psName name="oneoldstyle"/>
+      <psName name="twooldstyle"/>
+      <psName name="threeoldstyle"/>
+      <psName name="fouroldstyle"/>
+      <psName name="fiveoldstyle"/>
+      <psName name="sixoldstyle"/>
+      <psName name="sevenoldstyle"/>
+      <psName name="eightoldstyle"/>
+      <psName name="nineoldstyle"/>
+      <psName name="centoldstyle"/>
+      <psName name="ff"/>
+      <psName name="ffi"/>
+      <psName name="ffl"/>
+      <psName name="st"/>
+      <psName name="Eurooldstyle"/>
+      <psName name="J_alt"/>
+      <psName name="a_alt"/>
+      <psName name="aacute_alt"/>
+      <psName name="acircumflex_alt"/>
+      <psName name="adieresis_alt"/>
+      <psName name="agrave_alt"/>
+      <psName name="aring_alt"/>
+      <psName name="atilde_alt"/>
+      <psName name="ch"/>
+      <psName name="ct"/>
+      <psName name="florinoldstyle"/>
+      <psName name="g_alt"/>
+      <psName name="j_alt"/>
+      <psName name="percentoldstyle"/>
+      <psName name="perthousandoldstyle"/>
+      <psName name="sterlingoldstyle"/>
+      <psName name="yenoldstyle"/>
+    </extraNames>
+  </post>
+
+</ttFont>
