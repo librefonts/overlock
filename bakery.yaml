@@ -1,0 +1,10 @@
+commit: HEAD
+process_files: [Overlock-Regular.ttf.ttx, Overlock-Italic.ttf.ttx, Overlock-BoldItalic.ttf.ttx,
+  Overlock-Bold.ttf.ttx, Overlock-BlackItalic.ttf.ttx, Overlock-Black.ttf.ttx, src/Overlock-Regular-OTF.otf.ttx,
+  src/Overlock-Italic-OTF.otf.ttx, src/Overlock-BoldItalic-OTF.otf.ttx, src/Overlock-Bold-OTF.otf.ttx,
+  src/Overlock-BlackItalic-OTF.otf.ttx, src/Overlock-Black-OTF.otf.ttx, src/Overlock-Regular-TTF.sfd,
+  src/Overlock-Italic-TTF.sfd, src/Overlock-BoldItalic-TTF.sfd, src/Overlock-Bold-TTF.sfd,
+  src/Overlock-BlackItalic-TTF.sfd, src/Overlock-Black-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
